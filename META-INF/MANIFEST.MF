@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Require-Bundle: com.dynatrace.diagnostics.sdk
+Ant-Version: Apache Ant 1.7.1
+Bundle-Vendor: dynaTrace Community
+Bundle-ClassPath: .,lib/ganymed-ssh2-build210.jar
+Bundle-Version: 1.2.10
+Bundle-Name: Linux Process Status Plugin New
+Created-By: 17.0-b16 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.dynatrace.diagnostics.plugins.LinuxProcessSta
+ tusPluginNew;singleton:=true
+
